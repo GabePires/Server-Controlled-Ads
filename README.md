@@ -55,7 +55,7 @@ serverAd.userInteractionEnabled = NO;
 [self.view addSubview:serverAd];
 ```
 
-#Thanks and more info
+#Credit
 AFNetworking and KVO tutorials I followed
 
 [The AFNetworking Tutorial I followed](http://www.raywenderlich.com/59255/afnetworking-2-0-tutorial)
