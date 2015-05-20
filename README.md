@@ -5,6 +5,8 @@ Problem: You want to cross promote your own iOS apps with a simple ad, but
 you don't want to update every app for a simple ad every single time you upload a new app.
 Solution: Use Server-Based-Ad to grab customized ads from your server.
 
+This class displays use of: AFNetworking, JSON, and the KVO design pattern.
+
 Using the AFNetworking framework, this project grabs a json file and parses three things.
   1) boolean - is this ad live?
   2) app link to app store - open link to your advertised app.
