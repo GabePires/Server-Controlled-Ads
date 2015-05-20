@@ -19,6 +19,7 @@ Using the AFNetworking framework, this project grabs a json file and parses thre
 5. Edit the ServerAds.m file to add your json url location
 6. Add the ServerAd view to your view
 
+Result: now with any live app, you can control which ads to show by editing the JSON file on the website
 
 # Example
  4.NSDictionary+dynamicAds_service.m
