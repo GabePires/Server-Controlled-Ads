@@ -57,5 +57,7 @@ serverAd.userInteractionEnabled = NO;
 
 #Thanks and more info
 AFNetworking and KVO tutorials I followed
+
 [The AFNetworking Tutorial I followed](http://www.raywenderlich.com/59255/afnetworking-2-0-tutorial)
+
 [KVO Tutorial](http://www.raywenderlich.com/46988/ios-design-patterns)
