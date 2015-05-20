@@ -1,4 +1,4 @@
-# Server-Based-Ad
+# Server-Controlled-Ad
 Using AFNetworking and JSON to get customized interstitial ads from your website.
 
 Problem: You want to cross promote your own iOS apps with a simple ad, but
