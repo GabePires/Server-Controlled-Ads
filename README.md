@@ -54,25 +54,3 @@ ServerAd *serverAd = [[ServerAd alloc]initWithFrame:CGRectMake(0, 0, kScreenWidt
 serverAd.userInteractionEnabled = NO;
 [self.view addSubview:serverAd];
 ```
-Example JSON file: http://reddit.com/server_ad_example.json
-```json
-{
-    "ad_data": {
-        "object1": [
-            {
-                "ad_bool": "YES",
-                "ad_link": [
-                    {
-                        "value": "http://itunes.apple.com/app/id1234567"
-                    }
-                ],
-                "ad_image": [
-                    {
-                        "value": "http://reddit.com/server_adimage_1.png"
-                    }
-                ]
-            }
-        ]
-    }
-}
-``
