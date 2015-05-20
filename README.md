@@ -16,7 +16,7 @@ Using the AFNetworking framework, this project grabs a json file and parses thre
 2. Drag and Copy the AFNetworking folder and UIKit+AFNetworking folder into project
 3. Drag and Copy ServerAds folder into project
 4. Edit JSON file to your liking, upload to website, and adjust the objects in NSDictionary+dynamicAds_service accordingly
-5. Edit the ServerAds.m file to your json url location
+5. Edit the ServerAds.m file to add your json url location
 6. Add the ServerAd view to your view
 
 
