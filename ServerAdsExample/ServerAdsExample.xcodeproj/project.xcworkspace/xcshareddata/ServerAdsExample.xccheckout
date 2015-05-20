@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0120F535-F905-46DF-ACC0-FE3E33A2F929</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ServerAdsExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED86F4D4E41C123A40573695898C00F742DF411E</key>
+		<string>https://github.com/GabePires/Server-Based-Ad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ServerAdsExample/ServerAdsExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED86F4D4E41C123A40573695898C00F742DF411E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GabePires/Server-Based-Ad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED86F4D4E41C123A40573695898C00F742DF411E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED86F4D4E41C123A40573695898C00F742DF411E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Server-Based-Ad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
