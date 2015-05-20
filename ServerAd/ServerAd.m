@@ -36,7 +36,6 @@ static NSString * const endURLString = @"%@server_ad_example.json";
     BOOL serverAdBool; //do we want to show the ad?
     NSString *serverAdURL; //grab the link of the app we want to advertise
     NSString *serverAdImgURL; //grab the link of the image of our advertisement
-    
     NSDictionary *jsonData;
     
 }

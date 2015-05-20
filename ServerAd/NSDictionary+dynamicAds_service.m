@@ -13,8 +13,8 @@
 #warning depending on json file, change ad_data and such to needs
 - (NSDictionary *)serverAd
 {
-    //everything inside root
-    NSDictionary *dict = self[@"root"];
+    //everything inside root ad_data
+    NSDictionary *dict = self[@"ad_data"];
     //everything inside iBooks
     NSArray *ar = dict[@"object1"];
     return ar[0];
@@ -23,7 +23,7 @@
 //just showing that you can get other data besides the one in the above function
 - (NSDictionary *)serverAd2
 {
-    NSDictionary *dict = self[@"root"];
+    NSDictionary *dict = self[@"ad_data"];
     NSArray *ar = dict[@"object2"];
     return ar[0];
 }
