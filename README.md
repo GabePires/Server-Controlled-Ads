@@ -11,7 +11,7 @@ Using the AFNetworking framework, this project grabs a json file and parses thre
   3) interstitial ad image link - set the advertisement background image.
   
   
-# How to use
+# Usage
 1. Get the [AFNetworkingFramework](https://github.com/AFNetworking/AFNetworking)
 2. Drag and Copy the AFNetworking folder and UIKit+AFNetworking folder into project
 3. Drag and Copy ServerAds folder into project
