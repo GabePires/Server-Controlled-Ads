@@ -1,0 +1,34 @@
+{
+    "ad_data": {
+        "iBooks": [
+            {
+                "ad_bool": "YES",
+                "ad_link": [
+                    {
+                        "value": "http://itunes.apple.com/app/id364709193"
+                    }
+                ],
+                "ad_image": [
+                    {
+                        "value": "http://getclickcraft.com/server_adimage_1.png"
+                    }
+                ]
+            }
+        ],
+        "itunesconnect": [
+            {
+                "ad_bool": "YES",
+                "ad_link": [
+                    {
+                        "value": "http://itunes.apple.com/app/id376771144"
+                    }
+                ],
+                "ad_image": [
+                    {
+                        "value": "http://getclickcraft.com/server_adimage_2.png"
+                    }
+                ]
+            }
+        ]
+    }
+}
