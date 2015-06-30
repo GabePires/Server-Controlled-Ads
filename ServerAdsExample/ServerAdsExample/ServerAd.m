@@ -19,6 +19,8 @@
 //for transparent black bg
 #import "ServerAdTransparentBG.h"
 
+#import "AFNetworking.h"
+
 #warning change this according to website and json file link.
 //example: our json file is located at http://getclickcraft.com/server_ad_example.json
 static NSString * const BaseURLString = @"http://getclickcraft.com/";

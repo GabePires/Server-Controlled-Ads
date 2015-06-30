@@ -19,6 +19,8 @@
 //for transparent black bg
 #import "ServerAdTransparentBG.h"
 
+#import "AFNetworking.h"
+
 #warning change this according to website and json file link.
 static NSString * const BaseURLString = @"http://yourwebsite.com/";
 //%@ will be filled in with the BaseURLString
